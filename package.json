@@ -1,0 +1,19 @@
+{
+  "name": "apns-spdy",
+  "version": "1.0.0",
+  "description": "apns using node-spdy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeet559/apns-spdy.git"
+  },
+  "author": "Sumeet Tiwari <sumeet.tiwari@tlkn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumeet559/apns-spdy/issues"
+  },
+  "homepage": "https://github.com/sumeet559/apns-spdy#readme"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "apns-spdy",
+  "name": "apns2-spdy",
   "version": "1.0.0",
   "description": "Node client for connecting to Apple's Push Notification Service using the new HTTP/2 protocol with JSON web tokens.",
   "author": "sumeet tiwari<sumeet.tiwari@tlkn.com>",

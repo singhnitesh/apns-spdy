@@ -8,7 +8,7 @@ The http2 client used in the implementation is node-spdy https://github.com/indu
 In personal point of view node-spdy is way stable than node-http2 as far as h2 implementation is concerned.
 
 # Sample Code (Koa framework)
-
+```javascript
 'use strict';
 
 var koa=require("koa");
@@ -46,3 +46,4 @@ app.use(function *(){
 
 })
 app.listen(8080);
+```

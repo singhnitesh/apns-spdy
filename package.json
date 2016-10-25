@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bluebird": "^3.4.1",
-    "spdy": "*",
+    "spdy": "^3.4.4",
     "https":"*",
     "jsonwebtoken": "^7.0.1",
     "lodash": "^4.13.1"

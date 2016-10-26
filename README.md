@@ -1,4 +1,6 @@
 # apns2-spdy
+[![Known Vulnerabilities](https://snyk.io/test/npm/apns2-spdy/badge.svg)](https://snyk.io/test/npm/apns2-spdy)
+
 apns2-spdy
 
 Documentation and use of APIs with examples is exactly same as apns2
